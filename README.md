@@ -34,11 +34,12 @@ Pedi ao gerador de imagens, que criasse uma fotografia profissional realística 
 gerações de conteúdos semelhantes às melhores imagens geradas, pude chegar na imagem final que teve o resultado mais fiel ao real.
 
 ## 🚀 Resultados
-- [IMAGEM](/exemplos/Elefante.png)
+Segue abaixo o resultado da imagem obtida através da IA de geração de imagens do Canva.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
+### Resultado da Imagem
+
+- [IMAGEM](/exemplos/Elefante.png)
 
 ### Exemplos e Insigths
 
