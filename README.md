@@ -20,19 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criação de imagem realística através de Inteligência Artificial Generativa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Como parte do desafio da DIO, foi utilizada uma inteligência artificial para a criação de uma imagem o mais realística possível,
+para mostrar como as IA's estão evoluindo cada vez mais nos detalhes de seus resultados.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gerador de imagens por IA do Canva
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi ao gerador de imagens, que criasse uma fotografia profissional realística de um elefante na savana, após um polimento e
+gerações de conteúdos semelhantes às melhores imagens geradas, pude chegar na imagem final que teve o resultado mais fiel ao real.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
